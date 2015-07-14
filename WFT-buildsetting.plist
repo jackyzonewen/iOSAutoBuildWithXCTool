@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CODE_SIGN_IDENTITY</key>
+	<string>iPhone Developer: Jiesheng Chen (Q5KR5MWZ52)</string>
+	<key>PROVISIONING_PROFILE</key>
+	<string>6af85eed-ae33-4aa9-a52d-5490f076ae1b</string>
+	<!--
+	<string>6af85eed-ae33-4aa9-a52d-5490f076ae1b</string> 
+	<string>dd14624b-39fe-4400-b289-733edfbe126e</string>
+	-->
+	<key>ARCHITECTURES</key>
+	<string>armv7</string>
+	<key>CONFIGURATION</key>
+	<string>Release</string>
+	<key>SDK_VERSION</key>
+	<string>iphoneos8.3</string>
+	<key>TARGET</key>
+	<string>WFT</string>
+	<key>PROJECT_TYPE</key>
+	<string>workspace</string>
+	<key>GCC_PREPROCESSOR_DEFINITIONS</key>
+	<string></string>
+</dict>
+</plist>
