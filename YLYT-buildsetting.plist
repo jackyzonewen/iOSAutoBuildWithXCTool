@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CODE_SIGN_IDENTITY</key>
+	<string>iPhone Distribution: Fuzhou Wang Fu Tian Xia Information Technology Co.,Ltd.</string>
+	<key>PROVISIONING_PROFILE</key>
+	<string>7ea551f6-c12d-43fe-a3fa-7306695a1d2e</string>
+	<key>ARCHITECTURES</key>
+	<string>armv7</string>
+	<key>CONFIGURATION</key>
+	<string>Release</string>
+	<key>SDK_VERSION</key>
+	<string>iphoneos9.1</string>
+	<key>TARGET</key>
+	<string>YLYT</string>
+	<key>PROJECT_NAME</key>
+	<string>YLYT</string>
+	<key>PROJECT_TYPE</key>
+	<string>workspace</string>
+	<key>GCC_PREPROCESSOR_DEFINITIONS</key>
+	<string></string>
+</dict>
+</plist>
